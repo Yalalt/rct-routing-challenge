@@ -1,0 +1,16 @@
+.headerNav {
+  background-color: #333;
+  color: #fff;
+  width: 100%;
+  height: 25px;
+  padding: 10px;
+}
+.menuItem {
+  display: inline;
+  padding: 10px;
+}
+.menuItem a {
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
